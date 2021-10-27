@@ -1,0 +1,24 @@
+@media all and (max-width: 991px) {}
+
+@media all and (max-width: 480px) {
+    .copyright-section {
+        display: inherit;
+        margin-top: 70px;
+    }
+
+    .copyright p {
+        text-align: center;
+    }
+    .next_result{
+   
+}
+.next_result h1{
+    font-size: 40px;
+}
+.next_result p{
+   
+    font-size: 25px;
+}
+}
+
+@media all and (max-width: 320px) {}
